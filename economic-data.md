@@ -1,3 +1,4 @@
+
 ---
 title: Economic Data
 description: A collection of economic indicators available on DataHub.
